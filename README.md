@@ -4,7 +4,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 
 ## Screenshots
-!["Homepage"]()
+!["Homepage"](https://github.com/Yuki-Fujiwara-S/jungle-rails/blob/master/docs/Screen%20Shot%202022-04-14%20at%209.06.11%20AM.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
